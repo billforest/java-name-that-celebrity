@@ -1,0 +1,12 @@
+/*
+ * Project: ArithmeticAssignment
+ * Description: Cheating on math homework
+ * Name: Jaehyung Lim
+ * Date: Sept 7, 2015
+ */
+
+public class Tester {
+  
+  public static void main( String[] args ) {
+    
+    
